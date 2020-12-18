@@ -21,7 +21,7 @@ Documente seu código para que possamos entender suas ideias sobre como resolver
 Este desafio foi desenvolvido com base em um treinamento da PUC.
 
 Explore os códigos disponibilizados no projeto: 
-exemplos.zip ou https://github.com/Macelot/Exemplos
+https://github.com/Macelot/Exemplos
 
 mensagem secreta:
 ÔZÜZ.QÓÇK#CÕ,RI#!Ó,ÕÓAÜÕB#Z#,ÃZC!#ÔZÜZ#;!,ÜÀ?ÜZÜ#Z#?ÜZÇ!#Ç!,Ü!AZ
